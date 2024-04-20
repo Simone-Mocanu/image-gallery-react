@@ -1,1 +1,1 @@
-Image Gallery website created with React and Tailwindcss.
+Image Gallery website created with React, Tailwindcss and the Pixabay API.
